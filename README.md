@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o59au311y4ed714g?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-world-clock)
+## [Проект](https://vmoiseev.github.io/ra-world-clock/)
+
 Мировые часы
 ===
 
