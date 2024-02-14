@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-world-clock/static/css/main.ff8fa311.css",
+    "main.js": "/ra-world-clock/static/js/main.01e1ee12.js",
+    "index.html": "/ra-world-clock/index.html",
+    "main.ff8fa311.css.map": "/ra-world-clock/static/css/main.ff8fa311.css.map",
+    "main.01e1ee12.js.map": "/ra-world-clock/static/js/main.01e1ee12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8fa311.css",
+    "static/js/main.01e1ee12.js"
+  ]
+}
